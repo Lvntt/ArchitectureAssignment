@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ArchitectureAssignment</string>
+    <string name="appName">ArchitectureAssignment</string>
+    <string name="format">Format</string>
+    <string name="phone">Phone</string>
+    <string name="incorrectFormat">Incorrect format</string>
+    <string name="formattedPhone">Formatted phone</string>
 </resources>

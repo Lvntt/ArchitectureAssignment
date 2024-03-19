@@ -1,4 +1,4 @@
-package com.example.architectureassignment.ui.theme
+package com.example.architectureassignment.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
